@@ -4,7 +4,7 @@
 
 An audio bible is the set of music, sound effects and voices within a video game, with it we can better recreate the world we have created around it and make the player believe it more.
 
-![![image](https://user-images.githubusercontent.com/53059360/155235363-a3b4681b-0afa-41c4-9891-a013dc31b0cf.png)](src)
+![image](https://user-images.githubusercontent.com/53059360/155235363-a3b4681b-0afa-41c4-9891-a013dc31b0cf.png)](src)
 
 ### Markdown
 
