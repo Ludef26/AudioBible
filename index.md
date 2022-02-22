@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## What is Audio Bible?
 
-You can use the [editor on GitHub](https://github.com/Ludef26/AudioBible/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+An audio bible is the set of music, sound effects and voices within a video game, with it we can better recreate the world we have created around it and make the player believe it more.
 
 ### Markdown
 
