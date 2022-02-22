@@ -1,4 +1,6 @@
-## What is Audio Bible?
+#THE AUDIO BIBLE
+
+## What is an Audio Bible?
 
 An audio bible is the set of music, sound effects and voices within a video game, with it we can better recreate the world we have created around it and make the player believe it more.
 
