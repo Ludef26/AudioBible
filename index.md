@@ -18,6 +18,10 @@ The Audio Bible helps us organize our audio files and decide which ones to inclu
 
 - The second thing would be to take into account the Art Bible to know in which universe we are moving and therefore what are our possibilities.
 
+
+![image](https://danielrparente.files.wordpress.com/2012/04/music_music.png)
+
+
 ## References links 
 
 https://github.com/Kalima-Entertainment/Fallout_Strategy/wiki/Audio-Bible
