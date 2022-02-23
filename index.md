@@ -12,6 +12,10 @@ For example in "Dark Souls" there is a dark theme throughout his world and of co
 
 The Audio Bible helps us organize our audio files and decide which ones to include earlier or later in the code, we will also divide the different types of audio that we have according to the characters, the UI sounds and Ambient sounds.
 
+## How we can do an Audio Bible? 
+
+
+
 ## References links 
 
 https://github.com/Kalima-Entertainment/Fallout_Strategy/wiki/Audio-Bible
