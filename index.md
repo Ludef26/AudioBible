@@ -10,7 +10,7 @@ For example in "Dark Souls" there is a dark theme throughout his world and of co
 
 ## What utilities does an Audio Bible have?
 
-The Audio Bible helps us organize our audio files and decide which ones to include earlier or later in the code, 
+The Audio Bible helps us organize our audio files and decide which ones to include earlier or later in the code, we will also divide the different types of audio that we have according to the characters, the UI sounds and Ambient sounds.
 
 ## References links 
 
