@@ -22,6 +22,9 @@ The Audio Bible helps us organize our audio files and decide which ones to inclu
 
 ![image](https://danielrparente.files.wordpress.com/2012/04/music_music.png)
 
+## Structure of an Audio Bible
+
+![Here](https://github.com/Ludef26/AudioBible/tree/main/Template) you have a link to a template to make your own Audio Bible.
 
 ## References links 
 
