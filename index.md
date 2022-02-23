@@ -12,9 +12,11 @@ For example in "Dark Souls" there is a dark theme throughout his world and of co
 
 The Audio Bible helps us organize our audio files and decide which ones to include earlier or later in the code, we will also divide the different types of audio that we have according to the characters, the UI sounds and Ambient sounds.
 
-## How we can do an Audio Bible? 
+## How can we make an Audio Bible? 
 
+- The first thing we have to take into account when creating an Audio Bible is how many elements of our game we are going to have to add some kind of audio to.
 
+- The second thing would be to take into account the Art Bible to know in which universe we are moving and therefore what are our possibilities.
 
 ## References links 
 
