@@ -11,3 +11,11 @@ For example in "Dark Souls" there is a dark theme throughout his world and of co
 ## What utilities does an Audio Bible have?
 
 The Audio Bible helps us organize our audio files and decide which ones to include earlier or later in the code, 
+
+## References links 
+
+https://github.com/Kalima-Entertainment/Fallout_Strategy/wiki/Audio-Bible
+
+https://github.com/gamificalostudio/Tankerfield/wiki/Audio-Bible
+
+https://github.com/cherry-glasses/Clowns-F8/wiki/Audio-Bible
