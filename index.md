@@ -18,6 +18,7 @@ The Audio Bible helps us organize our audio files and decide which ones to inclu
 
 - The second thing would be to take into account the Art Bible to know in which universe we are moving and therefore what are our possibilities.
 
+- Finally, we must establish the order in which we will implement these sounds in the game code, since making a good organization will help the whole team to test all the options.
 
 ![image](https://danielrparente.files.wordpress.com/2012/04/music_music.png)
 
