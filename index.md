@@ -14,8 +14,8 @@ The Audio Bible helps us organize our audio files and decide which ones to inclu
 
 ## References links 
 
-![Link](https://github.com/Kalima-Entertainment/Fallout_Strategy/wiki/Audio-Bible)
+![](https://github.com/Kalima-Entertainment/Fallout_Strategy/wiki/Audio-Bible)
 
-![Link](https://github.com/gamificalostudio/Tankerfield/wiki/Audio-Bible)
+![](https://github.com/gamificalostudio/Tankerfield/wiki/Audio-Bible)
 
-![Link](https://github.com/cherry-glasses/Clowns-F8/wiki/Audio-Bible)
+![](https://github.com/cherry-glasses/Clowns-F8/wiki/Audio-Bible)
